@@ -1,0 +1,20 @@
+{
+  "name": "html",
+  "homepage": "https://github.com/JonathasCostaAlves/site",
+  "authors": [
+    "jonathas <jcalves182@gmail.com>"
+  ],
+  "description": "criação de site",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "3.3.7"
+  }
+}
